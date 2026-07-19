@@ -428,6 +428,7 @@ It's a great way to learn.
 * [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
+* [**Go**: _How to build a simple Go HTTP REST server_](https://www.practical-go-lessons.com/post/how-to-build-a-simple-go-http-rest-server-1)
 
 #### Uncategorized
 
