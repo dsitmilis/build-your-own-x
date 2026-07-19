@@ -364,6 +364,7 @@ It's a great way to learn.
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Python**: _Build Your Own Regular Expression Engines: Backtracking, NFA, DFA_](https://build-your-own.org/b2a/r0_intro)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
+* [**Scala**: _No Magic: Regular Expressions (Part 2)_](https://svbtle.com/regular-expressions-part-2)
 
 #### Build your own `Search Engine`
 
