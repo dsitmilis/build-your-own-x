@@ -391,6 +391,7 @@ It's a great way to learn.
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
 * [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+* [**JavaScript**: _Build a template engine in <100 lines_](https://blog.spike.codes/build-a-template-engine)
 
 #### Build your own `Text Editor`
 
